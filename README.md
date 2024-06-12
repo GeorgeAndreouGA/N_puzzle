@@ -14,3 +14,6 @@ Players:
  you
  or
  bot
+Run: 
+javac N_puzzleClient.java
+java N_puzzleClient <number1> <number2>
